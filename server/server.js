@@ -28,5 +28,5 @@ module.exports = server.listen(PORT, err => {
   if(err){
     throw err
   }
-  console.log('kubernetes sample app running on 1100')
+  console.log('kubernetes sampleapp running on 1100')
 })
